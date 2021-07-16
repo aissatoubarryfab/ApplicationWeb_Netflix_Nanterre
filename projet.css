@@ -1,0 +1,97 @@
+
+body.html1{
+          justify-content: center;
+          border: 2px solid black;
+          margin-left: 20%;
+          margin-right: 20%;
+          margin-top: 10%;
+}
+body.seri{
+	background-image: url("image2.jpg");
+}
+div.P{
+	 background-image: url("for.jpg");
+	justify-content: center;
+}
+h2{
+	font-size: 120%;
+	text-shadow: 1px 1px black; 
+	color:black;
+	font-family: sans-serif;
+	font-variant: small-caps;
+ }
+
+
+a{ 
+   color: blue; 
+}
+a:hover{
+		color:yellow;
+		text-shadow : 1px 1px 1px black;
+		background-color: black;
+		}
+div.lien{
+		text-align:right;
+		}
+
+table{text-align:center; }
+
+ul.A{
+	    list-style-type: none;
+	    overflow: hidden;
+	    font-size: 150%;
+	    	}
+
+li.c{
+   	 float: left;
+ 	}
+li.c a{
+	    color: white;
+	    text-align: center;
+	    padding: 20px 10px;
+	    text-decoration: none;
+	    text-shadow : 1px 1px 1px red;
+		}
+li.c a:hover{
+			color:yellow;
+			text-shadow : 1px 1px 1px red;
+			}
+body.html2{
+	background-image: url("net6.png");
+	background-size: 100%;
+	}
+
+	form.F{
+text-align: center;
+margin-top: 5%;
+	}
+
+.m a{
+	background-image: linear-gradient(#b0e0e6,white,#b0e0e6,white);
+	text-shadow : 1px 1px 1px white;
+	 text-decoration: none;
+	 justify-content: left;
+	 font-variant: small-caps;
+}
+.m a:hover{
+	color:red;
+}
+
+body.htm{
+	background-image:url("for.jpg");
+	text-align: center;
+	background-size: 100%;
+	}
+
+a.v{
+	text-shadow : 1px 1px 1px white;
+	 font-variant: small-caps;
+}
+a.v:hover{
+	color:red;
+}
+
+body.ht{
+	background-image:url("vid4.png");
+	background-size: 90%;
+}
