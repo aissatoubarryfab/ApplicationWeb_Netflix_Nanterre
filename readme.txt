@@ -16,20 +16,6 @@ J'ai crypter les mots de passe pour une question de securité en utilisant la fo
 
 -Pour se connecter l'utilisateur à travers le formulaire de connexion (connecter.php) doit entrer son email et son mot de passe.
 Le mot de passe doit contenir 4 a 8 caractères et doit avoir au moins une lettre majuscule,une lettre minuscule,un chiffre et un caractère special.
-Voici la liste des emails et mot de passe des utilisateurs inscrits dans la base:
-
-----------------------------------MEMBRES INSCRITS-------------------------------------------------------------------
-EMAIL                      MOT_PASSE
-
-barryaissatou@gmail.com    Aicha9!
-bouba@gmail.com            Bouba9!
-fabi@gmail.com             Fabi9!
-kairalus@gmail.com         Kaira9!
-mamdou@gmail.com           Mama9!
-mari@gmail.com             Mari9!
-marly@gmail.com            Marly9!
-rashi@gmail.com            Rashi9!
-thierno@gmail.com          Thier9!
 
 Pour ajouter une serie dans la base il faut remplir le formulaire de serie (formSerie.php). Si la serie est bien inserer on sera dirigé vers
 la page "insertion_serie.php" qui nous affichera "serie inserée" et un lien vers la page de connexion pour se connecter et regarder les series.
